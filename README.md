@@ -1,2 +1,3 @@
 # Marketplace_For_AI
 A NFT marketplace to buy and sell AI models. 
+AI model buying and selling has become a trending topic with the recent boom of AI. There exists several platforms like Hugging Face to buy and sell these models. However, one of the problems with this models is tracking the model provenance and ensuring that AI developers are properly being rewarded for their models being used or redeveloped. A blockchain based system where models are treated as NFT can aid in this process. The NFT will have royalty scheme to reward original developers for each resale of the model. A provenance chain can track how the original model was changed. 
